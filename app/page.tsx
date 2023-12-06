@@ -81,6 +81,9 @@ export default function Home() {
               </FormItem>
             )}
           />
+          <Button className='my-4' type='submit'>
+            Submit
+          </Button>
         </form>
       </Form>
     </main>
